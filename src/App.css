@@ -1,0 +1,152 @@
+.image {
+  width: 200px;
+  height: 80%;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  color: white;
+  margin-top: 20px;
+}
+.title1 {
+  font-weight: bold;
+  font-size: 25px;
+  color: white;
+  border-radius: 0;
+}
+.contain {
+  text-align: center;
+}
+.decision {
+  cursor: pointer;
+  height: 150px;
+  padding-top: 60px;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 18px;
+}
+.decision1 {
+  cursor: pointer;
+  height: 150px;
+  padding-top: 60px;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 18px;
+}
+.battery {
+  color: tomato;
+  font-size: 18px;
+  padding-left: 40px;
+  font-size: 20px;
+}
+.toggle {
+  height: 10px;
+}
+.battery1 {
+  height: 50px;
+  width: 85%;
+  padding-left: 30px;
+  border-radius: 8px;
+}
+.battery11 {
+  height: 50px;
+  width: 85%;
+  padding-left: 30px;
+  border-radius: 8px;
+  margin-top: 12px;
+}
+.input-battery {
+  padding-left: 40px;
+}
+.hint {
+  color: tomato;
+  padding-left: 20px;
+}
+.hint1 {
+  color: tomato;
+  font-size: 12px;
+  padding-left: 30px;
+}
+
+.battery2 {
+  background-color: tomato;
+  color: white;
+  border: 0;
+  width: 60%;
+  height: 50px;
+}
+.battery21 {
+  background-color: tomato;
+  color: white;
+  border: 0;
+  width: 60%;
+  height: 50px;
+  margin-bottom: 30px;
+}
+.battery3 {
+  background-color: tomato;
+  color: white;
+  border: 0;
+  width: 60%;
+  height: 50px;
+  margin-left: 20px;
+  margin-bottom: 50px;
+}
+.Button {
+  padding-left: 130px;
+  margin-top: 20px;
+}
+.battery12 {
+  height: 50px;
+  width: 85%;
+  padding-left: 30px;
+  border-radius: 8px;
+  margin-top: 12px;
+  width: 80%;
+}
+.code {
+  width: 80px;
+  height: 80px;
+}
+.digit {
+  width: 70px;
+  height: 70px;
+  border-width: 2px;
+  font-size: 30px;
+  text-align: center;
+  margin-right: 30px;
+}
+.form {
+  padding-left: 80px;
+}
+.hint2 {
+  color: tomato;
+  font-size: 13px;
+  padding-left: 80px;
+}
+.progressbar {
+  height: 30px;
+  background-color: dimgrey;
+  border-color: black;
+  border-width: 3px;
+  width: 80%;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.close {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+  margin-top: 50px;
+  border-radius: 0;
+}
+.top {
+  margin-bottom: 50px;
+}
+
+.dialog {
+  color: cornflowerblue;
+}
